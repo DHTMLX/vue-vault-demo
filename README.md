@@ -2,17 +2,24 @@
 
 [![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)
 
+![DHTMLX Vault with Vue Demo](https://raw.githubusercontent.com/DHTMLX/vue-vault-demo/master/vault.png)
+
 ## How to start
+
+Clone the repository or download files.
 
 ```
 yarn 
 yarn start
 ```
 
+You can also use [GitHub Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository) to run online.
+
 ## Useful links
 
+- **[Online demo](https://replit.com/@dhtmlx/dhtmlx-vault-with-vue3)**
 - [Technical support ](https://forum.dhtmlx.com/c/vault)
-- [Online  documentation](https://docs.dhtmlx.com/vault)
+- [Documentation](https://docs.dhtmlx.com/vault)
 
 ## Follow us
 

@@ -1,8 +1,9 @@
 # DHTMLX Vault with Vue Demo
 
-[![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)
+[![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)     
 
-![DHTMLX Vault with Vue Demo](https://raw.githubusercontent.com/DHTMLX/vue-vault-demo/master/vault.png)
+<img src="https://raw.githubusercontent.com/DHTMLX/vue-vault-demo/master/vault.png" width="550">
+
 
 ## How to start
 

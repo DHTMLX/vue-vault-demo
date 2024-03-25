@@ -1,7 +1,7 @@
 {
-  "name": "workspace",
+  "name": "vue-vault-demo",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "volar-preview-vite",
@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@dhx/trial-vault": "^4.1.4",
+    "@dhx/trial-vault": "^5.0.0",
     "vue": "^3.3.9"
   },
   "devDependencies": {

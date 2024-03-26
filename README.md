@@ -2,8 +2,7 @@
 
 [![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)     
 
-![DHTMLX Vault with Vue Demo](https://raw.githubusercontent.com/DHTMLX/vue-vault-demo/master/vault.png)
-
+<img src="https://raw.githubusercontent.com/DHTMLX/vue-vault-demo/master/vault.png" width="550">
 
 ## How to start
 
@@ -27,6 +26,7 @@ You can also use [GitHub Codespaces](https://docs.github.com/en/codespaces/devel
 
 - **[Online demo](https://replit.com/@dhtmlx/dhtmlx-vault-with-vue3)**
 - [More demos about the DHTMLX Vault functionality](https://snippet.dhtmlx.com/26x2jra2?tag=vault)
+- [A step-by-step guide about the DHTMLX Vault and Vue integration](https://docs.dhtmlx.com/vault/vuejs_integration.html) 
 - [Technical support ](https://forum.dhtmlx.com/c/vault)
 - [Documentation](https://docs.dhtmlx.com/vault)
 
